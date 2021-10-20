@@ -1,0 +1,34 @@
+{
+  "name": "Party",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "bf61d54d22a6df8303a8e0b54ea9dbd9",
+      "css": "people",
+      "code": 59392,
+      "src": "material"
+    },
+    {
+      "uid": "4cbb0ef55486a20d7d413a47a473d522",
+      "css": "date_range",
+      "code": 59393,
+      "src": "material"
+    },
+    {
+      "uid": "82f44f1094ffd1d78093e76c33cc08cc",
+      "css": "access_time",
+      "code": 59394,
+      "src": "material"
+    },
+    {
+      "uid": "c6627578c788203e59230fd86b275436",
+      "css": "place",
+      "code": 59395,
+      "src": "material"
+    }
+  ]
+}
